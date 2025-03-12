@@ -4,4 +4,5 @@
 
 
 **Example Response:**
-https://github.com/codeHysteria28/ps-api-request/blob/main/Screenshot%202025-03-12%20100152.png
+
+![Screenshot 2025-03-12 100152](https://github.com/user-attachments/assets/19fd3336-c9fe-47ae-81a4-09e56020ba49)
